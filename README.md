@@ -1,44 +1,53 @@
 # Relais St-Denis - Hôtel & Spa de Luxe
 
-Un site web élégant et raffiné pour l'Hôtel Relais St-Denis à Saint-Sauveur, Québec.
+Site web officiel du Relais St-Denis, un hôtel spa incomparable situé au cœur de Saint-Sauveur.
 
 ## 🏨 À propos
 
-Site web officiel du Relais St-Denis, un hôtel spa incomparable situé au cœur de Saint-Sauveur. Le site présente nos chambres de luxe, services spa, forfaits saisonniers et l'emplacement privilégié dans la Vallée de Saint-Sauveur.
+Le Relais St-Denis est un hôtel de luxe situé à Saint-Sauveur, Québec, offrant:
+- Chambres et suites élégantes
+- Spa et piscine accessibles à l'année
+- Bain vapeur
+- Service 5 étoiles
 
-## ✨ Caractéristiques
+## 🚀 Déploiement
 
-- Design noble et élégant avec palette de couleurs or et bourgogne
-- Typographie classique (Playfair Display & Inter)
-- Sections interactives avec animations fluides
-- Carte Google Maps intégrée
-- Formulaire de contact
-- Responsive design
-- Optimisé pour les performances
+Ce site est automatiquement déployé sur GitHub Pages à chaque push sur la branche `main`.
 
-## �� Déploiement
+### Développement local
 
-Ce site est déployé sur GitHub Pages.
+```bash
+npm install
+npm run dev
+```
 
-### Voir le site en ligne
-[https://votre-username.github.io/relais-st-denis](https://votre-username.github.io/relais-st-denis)
+### Build
+
+```bash
+npm run build
+```
+
+### Preview
+
+```bash
+npm run preview
+```
 
 ## 📞 Contact
 
-**Relais St-Denis**
-- Adresse: 61, avenue St-Denis, Saint-Sauveur (Québec) J0R 1R4
-- Téléphone: 450 227-4766
-- Sans frais: 1 888 997-4766
-- CITQ # 538580
+- **Téléphone**: 450 227-4766
+- **Sans frais**: 1 888 997-4766
+- **Adresse**: 61, avenue St-Denis, Saint-Sauveur (Québec) J0R 1R4
+- **CITQ**: #538580
 
 ## 🛠️ Technologies
 
+- Vite
 - HTML5
-- CSS3 (avec variables CSS)
-- JavaScript Vanilla
+- CSS3
+- JavaScript
 - Google Fonts (Playfair Display, Inter)
-- Google Maps API
 
 ## 📄 License
 
-© 2026 Relais St-Denis. Tous droits réservés.
+© 2024 Relais St-Denis. Tous droits réservés.
